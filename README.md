@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,20,24&height=300&section=header&text=Enow%20Dev&fontSize=90&fontAlignY=35&animation=fadeIn&desc=FiveM Resource Developer&descAlignY=60&descSize=20"/>
+    <img src="https://avatars.githubusercontent.com/u/147557082" width="300" height="300" style="border-radius: 50%"/>
 </div>
 
 <h1 align="center">
