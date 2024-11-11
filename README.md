@@ -60,10 +60,10 @@
 
 ## 🌟 Featured Projects
 <div align="center">
-    <a href="YOUR_REPO_LINK">
+    <a href="(https://github.com/enowdev/enow-hud)">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117" />
     </a>
-    <a href="YOUR_REPO_LINK">
+    <a href="https://github.com/enowdev/enow-info">
         <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=REPO_NAME&theme=radical&hide_border=true&bg_color=0D1117" />
     </a>
 </div>
