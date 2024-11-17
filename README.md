@@ -19,7 +19,7 @@
 ## 🎯 About Me
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
 
-- 🔭 Currently crafting **Advanced FiveM Resources**
+- 🔭 Currently crafting **FiveM Resources**
 - 🌱 Mastering **Custom Scripts & UI Development**
 - 💡 Passionate about **innovative collaborations**
 - 💬 Currently Learning **FiveM Development & Scripting**
@@ -38,6 +38,7 @@
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E&labelColor=0D1117"/>
 </div>
 
 <div align="center">
