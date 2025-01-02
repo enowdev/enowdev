@@ -84,12 +84,12 @@
 <tr>
 <td width="50%">
     <a href="https://github.com/enowdev/Spotify-Downloader">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=project1&theme=radical&hide_border=true&bg_color=0D1117"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=Spotify-Downloader&theme=radical&hide_border=true&bg_color=0D1117"/>
     </a>
 </td>
 <td width="50%">
     <a href="https://github.com/enowdev/Youtube-Playlist-Downloader">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=project2&theme=radical&hide_border=true&bg_color=0D1117"/>
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=Youtube-Playlist-Downloader&theme=radical&hide_border=true&bg_color=0D1117"/>
     </a>
 </td>
 </tr>
