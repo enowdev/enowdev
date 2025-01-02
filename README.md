@@ -9,7 +9,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🎮+FiveM+Resource+Developer;✨+Custom+Scripts+Creator;🎨+UI%2FUX+Designer;🚀+Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🎮+Full+Stack+Developer;📱+Flutter+Developer;🐍+Python+Enthusiast;🌐+Web+%26+Backend+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -19,11 +19,11 @@
 ## 🎯 About Me
 <img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation">
 
-- 🔭 Currently crafting **FiveM Resources**
-- 🌱 Mastering **Custom Scripts & UI Development**
-- 💡 Passionate about **innovative collaborations**
-- 💬 Currently Learning **FiveM Development & Scripting**
-- ⚡ Fun fact: **Coding is my superpower!**
+- 🔭 Currently working on **Full Stack Development Projects**
+- 🌱 Mastering **Flutter, Python, and Backend Development**
+- 💡 Passionate about **Cross-platform Mobile Apps & Web Solutions**
+- 💬 Experienced in **Database Design & API Development**
+- ⚡ Fun fact: **I turn coffee into code!**
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -31,14 +31,19 @@
 
 ## 🛠️ Tech Stack & Tools
 <div align="center">
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/VSCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0D1117"/>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E&labelColor=0D1117"/>
 </div>
 
 <div align="center">
