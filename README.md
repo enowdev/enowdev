@@ -40,7 +40,7 @@
 </tr>
 </table>
 
-## 🛠️ Technology Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 <p>
