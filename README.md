@@ -65,11 +65,6 @@
 </a>
 <br><br>
 
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img width="90%" src="https://github-readme-streak-stats.demolab.com?user=EnowDev&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
-</a>
-<br><br>
-
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnowDev&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&hide_border=true" width="90%" />
 </a>
