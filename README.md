@@ -48,19 +48,32 @@
 </p>
 </div>
 
-## �� GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-<table>
-<tr>
-<td width="50%">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=EnowDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-</td>
-<td width="50%">
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EnowDev&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</td>
-</tr>
-</table>
+    <img src="https://github-profile-trophy.vercel.app/?username=EnowDev&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" alt="Trophy" />
+    <br><br>
+    
+    <img src="https://github-readme-stats-theta-seven-16.vercel.app/api/top-langs/?username=EnowDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Most Used Languages" />
+    
+    <table>
+        <tr>
+            <td width="50%">
+                <img width="100%" src="https://github-readme-stats-theta-seven-16.vercel.app/api?username=EnowDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true" alt="GitHub Stats"/>
+            </td>
+            <td width="50%">
+                <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=EnowDev&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=EnowDev&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF&hide_border=true" width="94%" />
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
 </div>
 
 ## 🌟 Featured Projects
@@ -70,12 +83,12 @@
 <tr>
 <td width="50%">
     <a href="https://github.com/enowdev/Spotify-Downloader">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=Spotify-Downloader&theme=radical&hide_border=true&bg_color=0D1117"/>
+        <img width="100%" src="https://github-readme-stats-theta-seven-16.vercel.app/api/pin/?username=EnowDev&repo=Spotify-Downloader&theme=radical&hide_border=true&bg_color=0D1117"/>
     </a>
 </td>
 <td width="50%">
     <a href="https://github.com/enowdev/Youtube-Playlist-Downloader">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=Youtube-Playlist-Downloader&theme=radical&hide_border=true&bg_color=0D1117"/>
+        <img width="100%" src="https://github-readme-stats-theta-seven-16.vercel.app/api/pin/?username=EnowDev&repo=Youtube-Playlist-Downloader&theme=radical&hide_border=true&bg_color=0D1117"/>
     </a>
 </td>
 </tr>
