@@ -43,62 +43,12 @@
 ## 🛠️ Technology Stack
 
 <div align="center">
-
-### Backend & Web Frameworks
 <p>
-    <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&labelColor=0D1117"/>
-</p>
-
-### Mobile Development
-<p>
-    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=0D1117"/>
-</p>
-
-### Desktop Applications
-<p>
-    <img src="https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/PyQt-%2341CD52.svg?style=for-the-badge&logo=qt&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=white&labelColor=0D1117"/>
-</p>
-
-### Bot Development
-<p>
-    <img src="https://img.shields.io/badge/Discord_Bot-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/WhatsApp_Bot-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Telegram_Bot-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117"/>
-</p>
-
-### Package Managers & Runtimes
-<p>
-    <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white&labelColor=0D1117"/>
-</p>
-
-### Database & Cloud
-<p>
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white&labelColor=0D1117"/>
-</p>
-
-### Languages
-<p>
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white&labelColor=0D1117"/>
-    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117"/>
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117"/>
 </p>
 </div>
 
-## 📊 GitHub Statistics
+## �� GitHub Statistics
 
 <div align="center">
 <table>
