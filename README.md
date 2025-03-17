@@ -53,9 +53,7 @@
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=EnowDev&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%" alt="Trophy" />
     <br><br>
-    
     <img src="https://github-readme-stats-theta-seven-16.vercel.app/api/top-langs/?username=EnowDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="49%" alt="Most Used Languages" />
-    
     <table>
         <tr>
             <td width="50%">
