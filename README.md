@@ -21,7 +21,7 @@
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23000000"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23F75C7E" width="20" alt="sparkles"></picture> About Me
 
-I'm a passionate developer who loves building efficient, scalable solutions. I focus on creating clean, maintainable code and love exploring new technologies.
+Too lazy to code most of the time, but hey — if you've got a project in mind, hit me up and let's talk about it.
 
 <br>
 
