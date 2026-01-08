@@ -1,9 +1,3 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-</div>
-
-<br>
-
 <table>
 <tr>
 <td width="200" align="center">
@@ -48,8 +42,6 @@ I'm a passionate developer who loves building efficient, scalable solutions.
 
 <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117"/>
 
-<sub>for fun only 😄</sub>
-
 </div>
 
 <br>
@@ -58,34 +50,10 @@ I'm a passionate developer who loves building efficient, scalable solutions.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=EnowDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=EnowDev&theme=radical&hide_border=true&background=0D1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" width="48%" />
+![EnowDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnowDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnowDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnowDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" width="40%" />
-
-</div>
-
-<br>
-
-## <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/folder-git-2.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/folder-git-2.svg?color=%23000000"><img src="https://api.iconify.design/lucide/folder-git-2.svg?color=%23F75C7E" width="24" alt="projects"></picture> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/enowdev/Spotify-Downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=Spotify-Downloader&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" width="48%" />
-</a>
-<a href="https://github.com/enowdev/Youtube-Playlist-Downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EnowDev&repo=Youtube-Playlist-Downloader&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" width="48%" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
 <br>
