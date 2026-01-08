@@ -16,22 +16,22 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## ✨ About Me
+## <img src="https://unpkg.com/lucide-static@latest/icons/sparkles.svg" width="24" height="24" alt="sparkles"/> About Me
 
 <table>
 <tr>
 <td width="60%">
 
-### 🎯 Focus & Expertise
-- 🌟 Developing **Innovative Digital Solutions**
-- 🚀 Mastering **Laravel, Next.js, Vue, Flutter & React Native**
-- 💾 Experienced with **MySQL & MongoDB**
-- 🖥️ Expert in **Desktop Applications** with **Electron, PyQt & Tauri**
-- 📱 Building **Mobile Apps** using **Flutter & React Native**
-- 🤖 Proficient in **Bot Development** for **Discord, WhatsApp & Telegram**
-- 📦 Skilled with **JavaScript Tools** like **Bun, npm** and more
-- 💡 Prioritizing **Quality and Structured Code**
-- 🎨 Creating **Optimal User Experiences**
+### <img src="https://unpkg.com/lucide-static@latest/icons/target.svg" width="20" height="20" alt="target"/> Focus & Expertise
+- <img src="https://unpkg.com/lucide-static@latest/icons/star.svg" width="16" height="16" alt="star"/> Developing **Innovative Digital Solutions**
+- <img src="https://unpkg.com/lucide-static@latest/icons/rocket.svg" width="16" height="16" alt="rocket"/> Mastering **Laravel, Next.js, Vue, Flutter & React Native**
+- <img src="https://unpkg.com/lucide-static@latest/icons/database.svg" width="16" height="16" alt="database"/> Experienced with **MySQL & MongoDB**
+- <img src="https://unpkg.com/lucide-static@latest/icons/monitor.svg" width="16" height="16" alt="monitor"/> Expert in **Desktop Applications** with **Electron, PyQt & Tauri**
+- <img src="https://unpkg.com/lucide-static@latest/icons/smartphone.svg" width="16" height="16" alt="smartphone"/> Building **Mobile Apps** using **Flutter & React Native**
+- <img src="https://unpkg.com/lucide-static@latest/icons/bot.svg" width="16" height="16" alt="bot"/> Proficient in **Bot Development** for **Discord, WhatsApp & Telegram**
+- <img src="https://unpkg.com/lucide-static@latest/icons/package.svg" width="16" height="16" alt="package"/> Skilled with **JavaScript Tools** like **Bun, npm** and more
+- <img src="https://unpkg.com/lucide-static@latest/icons/lightbulb.svg" width="16" height="16" alt="lightbulb"/> Prioritizing **Quality and Structured Code**
+- <img src="https://unpkg.com/lucide-static@latest/icons/palette.svg" width="16" height="16" alt="palette"/> Creating **Optimal User Experiences**
 
 </td>
 <td width="40%">
@@ -40,7 +40,7 @@
 </tr>
 </table>
 
-## 🛠️ Tech Stack
+## <img src="https://unpkg.com/lucide-static@latest/icons/wrench.svg" width="24" height="24" alt="wrench"/> Tech Stack
 
 <div align="center">
 <p>
@@ -48,7 +48,7 @@
 </p>
 </div>
 
-## 📊 GitHub Statistics
+## <img src="https://unpkg.com/lucide-static@latest/icons/bar-chart-3.svg" width="24" height="24" alt="bar-chart"/> GitHub Statistics
 
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -73,7 +73,7 @@
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
 </div>
 
-## 🌟 Featured Projects
+## <img src="https://unpkg.com/lucide-static@latest/icons/folder-git-2.svg" width="24" height="24" alt="folder-git"/> Featured Projects
 
 <div align="center">
 <table>
@@ -96,7 +96,7 @@
     <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </div>
 
-## 📫 Let's Connect
+## <img src="https://unpkg.com/lucide-static@latest/icons/mail.svg" width="24" height="24" alt="mail"/> Let's Connect
 
 <div align="center">
     <a href="discordapp.com/users/310059253295480832">
