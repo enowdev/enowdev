@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
 <tr>
-<td width="200" align="center">
+<td width="200" align="center" valign="top">
     <img src="https://avatars.githubusercontent.com/u/179420349?v=4" width="150" height="150" style="border-radius: 50%;"/>
     <br><br>
     <b>Enow Developer</b>
@@ -17,11 +17,11 @@
         <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
     </a>
 </td>
-<td>
+<td valign="top">
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/sparkles.svg?color=%23000000"><img src="https://api.iconify.design/lucide/sparkles.svg?color=%23F75C7E" width="20" alt="sparkles"></picture> About Me
 
-I'm a passionate developer who loves building efficient, scalable solutions.
+I'm a passionate developer who loves building efficient, scalable solutions. I focus on creating clean, maintainable code and love exploring new technologies.
 
 <br>
 
@@ -29,6 +29,7 @@ I'm a passionate developer who loves building efficient, scalable solutions.
 - <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/layout-dashboard.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/layout-dashboard.svg?color=%23000000"><img src="https://api.iconify.design/lucide/layout-dashboard.svg?color=%23F75C7E" width="16" alt="layout"></picture> **Modern Web Apps** with Next.js, Svelte & Vue
 - <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/gamepad-2.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/gamepad-2.svg?color=%23000000"><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%23F75C7E" width="16" alt="gamepad"></picture> **Game Scripting** with Lua
 - <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/bot.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/bot.svg?color=%23000000"><img src="https://api.iconify.design/lucide/bot.svg?color=%23F75C7E" width="16" alt="bot"></picture> **Bot Development** for Discord & Telegram
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/terminal.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/terminal.svg?color=%23000000"><img src="https://api.iconify.design/lucide/terminal.svg?color=%23F75C7E" width="16" alt="terminal"></picture> **CLI Tools** & Automation Scripts
 
 </td>
 </tr>
@@ -50,9 +51,15 @@ I'm a passionate developer who loves building efficient, scalable solutions.
 
 <div align="center">
 
-![EnowDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnowDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/EnowDev">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EnowDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnowDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+<br><br>
+
+<a href="https://github.com/EnowDev">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EnowDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+</a>
 
 </div>
 
