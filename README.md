@@ -52,13 +52,10 @@ Too lazy to code most of the time, but hey — if you've got a project in mind, 
 <div align="center">
 
 <a href="https://github.com/EnowDev">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EnowDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=EnowDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
 </a>
-
-<br><br>
-
 <a href="https://github.com/EnowDev">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EnowDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EnowDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=6" height="150" alt="Top Languages" />
 </a>
 
 </div>
