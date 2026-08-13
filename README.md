@@ -45,7 +45,7 @@ Too lazy to code most of the time, but hey — if you've got a project in mind, 
 
 <div align="center">
 
-*"Beneath her glowing eyes, they call like fire to a moth"*
+*"this world is ending faster than you think"*
 
 </div>
 
