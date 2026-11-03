@@ -2,13 +2,6 @@
 
 <img src="assets/identity.webp" width="830" alt="Enow Developer, Full Stack Developer, Indonesia (WIB). About Me: Too lazy to code most of the time, but hey — if you've got a project in mind, hit me up and let's talk about it." />
 
-<a href="https://discordapp.com/users/310059253295480832">
-        <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-    </a>
-<a href="mailto:rxky@enowx.ai">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-    </a>
-
 <img src="assets/currently-into.webp" width="830" alt="Currently Into: Golang, Systems &amp; Backend. Rust, Performance &amp; Safety. Lua, Roblox Game Dev. AI coding agents, enowX, agents across hosts." />
 
 <img src="assets/quote.webp" width="830" alt="this world is ending faster than you think" />
