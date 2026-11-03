@@ -1,48 +1,17 @@
-<table width="100%">
-<tr>
-<td width="200" align="center" valign="top">
-    <img src="https://avatars.githubusercontent.com/u/179420349?v=4" width="150" height="150" style="border-radius: 50%;"/>
-    <br><br>
-    <b>Enow Developer</b>
-    <br>
-    <sub>Full Stack Developer</sub>
-    <br>
-    <sub>
-        <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/map-pin.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/map-pin.svg?color=%23000000"><img src="https://api.iconify.design/lucide/map-pin.svg?color=%23888888" width="12" alt="location"></picture>
-        Indonesia (WIB)
-    </sub>
-    <br><br>
-    <a href="https://discordapp.com/users/310059253295480832">
-        <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
-    </a>
-    <a href="mailto:rxky@enowx.ai">
-        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-    </a>
-</td>
-<td valign="top">
-
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/user.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/user.svg?color=%23000000"><img src="https://api.iconify.design/lucide/user.svg?color=%23888888" width="20" alt="user"></picture> About Me
-
-Too lazy to code most of the time, but hey — if you've got a project in mind, hit me up and let's talk about it.
-
-<br>
-
-### <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/code-2.svg?color=%23FFFFFF"><source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/lucide/code-2.svg?color=%23000000"><img src="https://api.iconify.design/lucide/code-2.svg?color=%23888888" width="20" alt="code"></picture> Currently Into
-
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/logos/go.svg"><img src="https://api.iconify.design/logos/go.svg" width="16" alt="go"></picture> **Golang** — Systems & Backend
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/logos/rust.svg"><img src="https://api.iconify.design/logos/rust.svg" width="16" alt="rust"></picture> **Rust** — Performance & Safety
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/logos/svelte-icon.svg"><img src="https://api.iconify.design/logos/svelte-icon.svg" width="16" alt="svelte"></picture> **Svelte** — Modern Frontend
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/logos/lua.svg"><img src="https://api.iconify.design/logos/lua.svg" width="16" alt="lua"></picture> **Lua** — Roblox Game Dev
-
-</td>
-</tr>
-</table>
-
-<br>
-
 <div align="center">
 
-*"this world is ending faster than you think"*
+<img src="assets/identity.webp" width="830" alt="Enow Developer, Full Stack Developer, Indonesia (WIB). About Me: Too lazy to code most of the time, but hey — if you've got a project in mind, hit me up and let's talk about it." />
+
+<a href="https://discordapp.com/users/310059253295480832">
+        <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/>
+    </a>
+<a href="mailto:rxky@enowx.ai">
+        <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+    </a>
+
+<img src="assets/currently-into.webp" width="830" alt="Currently Into: Golang, Systems &amp; Backend. Rust, Performance &amp; Safety. Lua, Roblox Game Dev. AI coding agents, enowX, agents across hosts." />
+
+<img src="assets/quote.webp" width="830" alt="this world is ending faster than you think" />
 
 </div>
 
